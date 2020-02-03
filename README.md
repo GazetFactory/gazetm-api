@@ -59,7 +59,8 @@ Response body formed like below JSON string.
  endDate | string | True | end date time 
 
 #### example
-```[
+```
+[
   {
     "offerId": "TestOf",
     "offerName": "Gazet_Offer_AOS_KR",
