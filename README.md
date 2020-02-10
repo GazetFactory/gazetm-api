@@ -73,12 +73,12 @@ Response body formed like below JSON string.
     "creative": [
       {
         "url": "https://cdn.gazetfactory.com/RhCeCU/0f4ffaf7-8a34-408f-bdb0-db30f2871701",
-        "creativeType": null,
+        "creativeType": image,
         "resolution": "1024x768"
       },
       {
         "url": "https://cdn.gazetfactory.com/RhCeCU/d6f1a2c2-a3e8-42b7-82f1-c3d355defb11",
-        "creativeType": null,
+        "creativeType": image,
         "resolution": "1040x585"
       }
     ],
